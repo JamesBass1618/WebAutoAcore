@@ -1,3 +1,3 @@
 # WebAutoAcore
 
-Acore Capital UI Web Automation Accomplished through BackShop
+Acore Capital UI web automation accomplished through BackShop
